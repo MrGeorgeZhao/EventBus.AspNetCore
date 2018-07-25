@@ -6,7 +6,7 @@
 
 1  下载安装包  `Install-Package EventBus.AspNetCore`。
 
-2  代码里面配置EventBus
+2  代码里面配置EventBus：
 ``` csharp  
    public void ConfigureServices(IServiceCollection services)  
    {  
@@ -15,12 +15,12 @@
    }   
 ```
   
-3 添加订阅
+3 添加订阅：
 ``` csharp  
     public void Configure(IApplicationBuilder app, IHostingEnvironment env)  
    {  
       var sub = app.ApplicationServices.GetRequiredService<IEventBusSubscriptionsManager>();  
-     sub.AddSubscription<UserUpdateEvent, UserUpdateEventHandler>();  
+      sub.AddSubscription<UserUpdateEvent, UserUpdateEventHandler>();  
       ........  
    }  
 ```
