@@ -1,0 +1,8 @@
+C:\Users\SINK\source\repos\Eventbus.AspNetCore\src\Eventbus.AspNetCore\bin\Release\netcoreapp2.0\EventBus.AspNetCore.deps.json
+C:\Users\SINK\source\repos\Eventbus.AspNetCore\src\Eventbus.AspNetCore\bin\Release\netcoreapp2.0\EventBus.AspNetCore.dll
+C:\Users\SINK\source\repos\Eventbus.AspNetCore\src\Eventbus.AspNetCore\bin\Release\netcoreapp2.0\EventBus.AspNetCore.pdb
+C:\Users\SINK\source\repos\Eventbus.AspNetCore\src\Eventbus.AspNetCore\obj\Release\netcoreapp2.0\EventBus.AspNetCore.csproj.CoreCompileInputs.cache
+C:\Users\SINK\source\repos\Eventbus.AspNetCore\src\Eventbus.AspNetCore\obj\Release\netcoreapp2.0\EventBus.AspNetCore.AssemblyInfoInputs.cache
+C:\Users\SINK\source\repos\Eventbus.AspNetCore\src\Eventbus.AspNetCore\obj\Release\netcoreapp2.0\EventBus.AspNetCore.AssemblyInfo.cs
+C:\Users\SINK\source\repos\Eventbus.AspNetCore\src\Eventbus.AspNetCore\obj\Release\netcoreapp2.0\EventBus.AspNetCore.dll
+C:\Users\SINK\source\repos\Eventbus.AspNetCore\src\Eventbus.AspNetCore\obj\Release\netcoreapp2.0\EventBus.AspNetCore.pdb

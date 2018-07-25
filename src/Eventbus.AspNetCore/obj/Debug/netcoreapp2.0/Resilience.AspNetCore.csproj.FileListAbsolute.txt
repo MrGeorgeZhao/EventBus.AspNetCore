@@ -1,0 +1,9 @@
+C:\Users\SINK\source\repos\Resilience.AspNetCore\Resilience.AspNetCore\bin\Debug\netcoreapp2.0\Resilience.AspNetCore.deps.json
+C:\Users\SINK\source\repos\Resilience.AspNetCore\Resilience.AspNetCore\bin\Debug\netcoreapp2.0\Resilience.AspNetCore.dll
+C:\Users\SINK\source\repos\Resilience.AspNetCore\Resilience.AspNetCore\bin\Debug\netcoreapp2.0\Resilience.AspNetCore.pdb
+C:\Users\SINK\source\repos\Resilience.AspNetCore\Resilience.AspNetCore\obj\Debug\netcoreapp2.0\Resilience.AspNetCore.csprojResolveAssemblyReference.cache
+C:\Users\SINK\source\repos\Resilience.AspNetCore\Resilience.AspNetCore\obj\Debug\netcoreapp2.0\Resilience.AspNetCore.csproj.CoreCompileInputs.cache
+C:\Users\SINK\source\repos\Resilience.AspNetCore\Resilience.AspNetCore\obj\Debug\netcoreapp2.0\Resilience.AspNetCore.AssemblyInfoInputs.cache
+C:\Users\SINK\source\repos\Resilience.AspNetCore\Resilience.AspNetCore\obj\Debug\netcoreapp2.0\Resilience.AspNetCore.AssemblyInfo.cs
+C:\Users\SINK\source\repos\Resilience.AspNetCore\Resilience.AspNetCore\obj\Debug\netcoreapp2.0\Resilience.AspNetCore.dll
+C:\Users\SINK\source\repos\Resilience.AspNetCore\Resilience.AspNetCore\obj\Debug\netcoreapp2.0\Resilience.AspNetCore.pdb
