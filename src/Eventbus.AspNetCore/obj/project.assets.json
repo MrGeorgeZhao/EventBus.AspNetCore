@@ -714,25 +714,25 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\SINK\\.nuget\\packages\\": {},
+    "C:\\Users\\Administrator.DESKTOP-H2RJ6MS\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\SINK\\source\\repos\\Eventbus.AspNetCore\\src\\Eventbus.AspNetCore\\EventBus.AspNetCore.csproj",
+      "projectUniqueName": "D:\\code\\Eventbus.AspNetCore\\src\\Eventbus.AspNetCore\\EventBus.AspNetCore.csproj",
       "projectName": "EventBus.AspNetCore",
-      "projectPath": "C:\\Users\\SINK\\source\\repos\\Eventbus.AspNetCore\\src\\Eventbus.AspNetCore\\EventBus.AspNetCore.csproj",
-      "packagesPath": "C:\\Users\\SINK\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\SINK\\source\\repos\\Eventbus.AspNetCore\\src\\Eventbus.AspNetCore\\obj\\",
+      "projectPath": "D:\\code\\Eventbus.AspNetCore\\src\\Eventbus.AspNetCore\\EventBus.AspNetCore.csproj",
+      "packagesPath": "C:\\Users\\Administrator.DESKTOP-H2RJ6MS\\.nuget\\packages\\",
+      "outputPath": "D:\\code\\Eventbus.AspNetCore\\src\\Eventbus.AspNetCore\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\SINK\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Administrator.DESKTOP-H2RJ6MS\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.Fallback.config"
       ],
